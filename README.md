@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey bro 👋
 
 <!--
 **Daydreamer-ia/Daydreamer-ia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 My name is **Daydreamer-ia**, a senior junior college **student**
+- 🔭 I'm currently learning **Java-Backend**
+- 📖 I'm interested in **Mirco Service** and **Distributed Service Component**
+- 📫 How to reach me: mail to 2296032269@qq.com
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=Daydreamer-ia&show_icons=true&theme=radical&hide=contribs,prs" />
+</div>
