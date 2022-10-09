@@ -20,6 +20,3 @@ Here are some ideas to get you started:
 - 📖 I'm interested in **Mirco Service** and **Distributed Service Component**
 - ⚡ Enjoy: learn excellent system design from the open source framework and component
 - 📫 How to reach me: mail to 2296032269@qq.com
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=Daydreamer-ia&show_icons=true&theme=radical&hide=contribs,prs" />
-</div>
