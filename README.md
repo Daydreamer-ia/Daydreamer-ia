@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - ⚡ Enjoy: learn excellent system design from the open source framework and component
 - 📫 How to reach me: mail to 2296032269@qq.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daydreamer-ia&show_icons=true&theme=tokyonight)
 ![666c83d09cb2530c41b6eb154d111c6](https://github.com/Daydreamer-ia/Daydreamer-ia/assets/83362909/f6f48db6-469c-4e98-acd3-531b7a8d6b86)
 
 
