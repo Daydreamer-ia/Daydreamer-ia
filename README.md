@@ -1,5 +1,3 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=System.out.println();Wish%20you%20all%20the%20best!;&center=true&size=27"> </a> </h1>
-
 ### Hey bro 👋
 
 <!--
