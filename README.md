@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 My name is **chenyiqin**, a senior junior college **student**
+- 😄 My name is **chenyiqin**
 - 🔭 I'm currently learning **Java-Backend**
 - 📖 I'm interested in **Mirco Service** and **Distributed Service Component**
 - ⚡ Enjoy: learn excellent system design from the open source framework and component
