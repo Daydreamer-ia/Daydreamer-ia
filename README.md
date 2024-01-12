@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currently learning **Java-Backend**
 - 📖 I'm interested in **Mirco Service** and **Distributed Service Component**
 - ⚡ Enjoy: learn excellent system design from the open source framework and component
-- 📫 How to reach me: mail to 2296032269@qq.com
+- 📫 Feel free to contact me: mail to 2296032269@qq.com
 
 ![666c83d09cb2530c41b6eb154d111c6](https://github.com/Daydreamer-ia/Daydreamer-ia/assets/83362909/f6f48db6-469c-4e98-acd3-531b7a8d6b86)
 
